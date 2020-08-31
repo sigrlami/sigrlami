@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Sergey 👋
+
+- I write Open Source software in Haskell, Rust, and sometimes Go.
+- I help startups to be good at tech within resource scarcity and help to buil proper architecture
+- [My website](https://sigrlami.eu)
+
 
 <!--
 **sigrlami/sigrlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
