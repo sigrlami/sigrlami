@@ -1,6 +1,7 @@
 ### Hi there, I'm Sergey 👋
 
-- I write Open Source software in Haskell, Rust, and sometimes Go.
+- I write Open Source Software in Haskell, Rust, and sometimes Go.
+- I'm strong proponent of Functional Programming and Typed Systems
 - I help startups to be good at tech within resource scarcity and help to buil proper architecture
 - [My website](https://sigrlami.eu)
 
