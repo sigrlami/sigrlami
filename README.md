@@ -4,7 +4,7 @@
 - I'm strong proponent of Functional Programming and Typed Systems
 - I help startups to build proper architectures and create good technology within resource scarcity 
 - [https://sigrlami.eu](https://sigrlami.eu) - my website
-- Favorite development stacks HEP (Haskell + Elm + Postgres) + Nix for DevOps
+- Favorite development stack HEP (Haskell + Elm + Postgres) + Nix for DevOps
 
 <!--
 **sigrlami/sigrlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
