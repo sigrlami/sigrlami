@@ -3,7 +3,7 @@
 - I write Open Source Software in [Haskell](https://hackage.haskell.org/user/sigrlami), Rust, and sometimes Go.
 - I'm strong proponent of Functional Programming and Typed Systems
 - I help startups to build proper architectures and create good technology within resource scarcity 
-- Favorite development stack HEP (Haskell + Elm + Postgres) + Nix for DevOps
+- Favorite web development stack HEP (Haskell + Elm + Postgres) + Nix for DevOps
 
 <!--
 **sigrlami/sigrlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
