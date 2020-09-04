@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergey 👋
 
-- I write Open Source Software in [https://hackage.haskell.org/user/sigrlami](Haskell), Rust, and sometimes Go.
+- I write Open Source Software in [Haskell](https://hackage.haskell.org/user/sigrlami), Rust, and sometimes Go.
 - I'm strong proponent of Functional Programming and Typed Systems
 - I help startups to build proper architectures and create good technology within resource scarcity 
 - [https://sigrlami.eu](https://sigrlami.eu) - my website
